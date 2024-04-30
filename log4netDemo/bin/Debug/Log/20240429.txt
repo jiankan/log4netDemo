@@ -1,0 +1,5 @@
+﻿时间：2024-04-29 11:01:11,828 线程ID：[9] 日志级别：FATAL 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-29 11:01:11,843 线程ID：[9] 日志级别：ERROR 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-29 11:01:11,843 线程ID：[9] 日志级别：WARN  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-29 11:01:11,844 线程ID：[9] 日志级别：INFO  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-29 11:01:11,844 线程ID：[9] 日志级别：DEBUG 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 

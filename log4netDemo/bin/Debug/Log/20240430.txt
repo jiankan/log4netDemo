@@ -1,0 +1,15 @@
+﻿时间：2024-04-30 11:48:00,890 线程ID：[10] 日志级别：FATAL 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:00,898 线程ID：[10] 日志级别：ERROR 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:00,898 线程ID：[10] 日志级别：WARN  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:00,899 线程ID：[10] 日志级别：INFO  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:00,899 线程ID：[10] 日志级别：DEBUG 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:33,155 线程ID：[8] 日志级别：FATAL 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:33,163 线程ID：[8] 日志级别：ERROR 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:33,163 线程ID：[8] 日志级别：WARN  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:33,164 线程ID：[8] 日志级别：INFO  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:33,164 线程ID：[8] 日志级别：DEBUG 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:43,759 线程ID：[10] 日志级别：FATAL 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:43,767 线程ID：[10] 日志级别：ERROR 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:43,767 线程ID：[10] 日志级别：WARN  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:43,768 线程ID：[10] 日志级别：INFO  出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
+时间：2024-04-30 11:48:43,768 线程ID：[10] 日志级别：DEBUG 出错类：log4netDemo 错误描述：log4netDemo.Utility.LogContent 
